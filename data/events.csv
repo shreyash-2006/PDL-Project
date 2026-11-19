@@ -1,0 +1,26 @@
+event_id,name,category,required_room_type,duration_slots,expected_attendance,priority,volunteers_needed,required_skill
+E01,Technical 1,Technical,lab,5,17,3,4,tech_support
+E02,Talk 1,Talk,auditorium,4,50,5,3,hospitality
+E03,Talk 2,Talk,auditorium,5,10,5,2,registration
+E04,Cultural 1,Cultural,open_air,5,92,4,2,first_aid
+E05,Workshop 1,Workshop,lab,4,48,1,3,first_aid
+E06,Technical 2,Technical,classroom,3,14,4,1,hospitality
+E07,Talk 3,Talk,classroom,3,10,3,4,hospitality
+E08,Talk 4,Talk,auditorium,3,30,3,2,tech_support
+E09,Workshop 2,Workshop,seminar,2,15,5,3,stage_management
+E10,Competition 1,Competition,classroom,6,10,2,1,registration
+E11,Talk 5,Talk,auditorium,2,22,4,2,stage_management
+E12,Cultural 2,Cultural,open_air,6,103,3,1,first_aid
+E13,Talk 6,Talk,auditorium,5,50,4,4,registration
+E14,Competition 2,Competition,classroom,6,79,2,1,hospitality
+E15,Talk 7,Talk,auditorium,2,96,5,1,hospitality
+E16,Talk 8,Talk,seminar,4,46,4,2,hospitality
+E17,Workshop 3,Workshop,seminar,4,68,1,1,stage_management
+E18,Technical 3,Technical,classroom,5,39,3,4,registration
+E19,Technical 4,Technical,classroom,5,47,3,3,tech_support
+E20,Workshop 4,Workshop,lab,5,16,1,2,registration
+E21,Competition 3,Competition,classroom,3,12,5,4,tech_support
+E22,Cultural 3,Cultural,auditorium,6,102,2,4,stage_management
+E23,Workshop 5,Workshop,seminar,5,10,3,4,first_aid
+E24,Talk 9,Talk,seminar,4,13,5,2,tech_support
+E25,Cultural 4,Cultural,auditorium,2,18,4,3,hospitality

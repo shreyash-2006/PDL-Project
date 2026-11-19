@@ -1,0 +1,11 @@
+room_id,name,room_type,capacity,cost_per_hour
+R01,Main Auditorium,auditorium,300,800
+R02,Mini Auditorium,auditorium,150,500
+R03,Open Air Theatre,open_air,250,300
+R04,Classroom A,classroom,80,150
+R05,Classroom B,classroom,60,120
+R06,Classroom C,classroom,60,120
+R07,Classroom D,classroom,40,100
+R08,Computer Lab 1,lab,50,250
+R09,Computer Lab 2,lab,30,200
+R10,Seminar Hall,seminar,100,250

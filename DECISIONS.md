@@ -30,3 +30,4 @@ This document records implementation decisions, edge-case clarifications, cross-
 
 - **Pandas 3.0 Array Indexing**: Arrow-backed string columns in Pandas 3.x require `.to_numpy()` before 2D reshaping (`[:, None]`) to avoid 1D slice `IndexError`.
 - **Duplicate Row Cleaning**: Exact duplicate row checking verifies all columns match before deduplication in `data_io.clean_tables`.
+- **Pytest Import Path Resolution**: Configured root on `sys.path` in `tests/conftest.py`, `pytest.ini` (`pythonpath = .`), and CI environment (`PYTHONPATH: .`) to ensure clean module discovery when `pytest -q` is invoked directly on remote CI runners.
